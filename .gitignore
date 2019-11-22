@@ -1,0 +1,14 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target
+
+# Other
+*.log
+*.swp
+*.bak
+.settings
